@@ -1,6 +1,7 @@
 ---
 title: Cheating Is a Moral Imperative
 authors: ["Cevin Soling"]
+tags: []
 ---
 
 # Cheating Is a Moral Imperative

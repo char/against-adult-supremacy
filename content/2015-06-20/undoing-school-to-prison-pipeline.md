@@ -1,6 +1,7 @@
 ---
-title: Undoing the School-to-Prison Pipeline (Excerpt)
+title: Undoing the School-to-Prison Pipeline
 authors: ["Damien Sojoyner"]
+tags: ["excerpt"]
 ---
 
 # Undoing the School-to-Prison Pipeline

@@ -5,8 +5,8 @@
 
 ## Contents
 
-- [**Samantha Godwin**: Children's Oppression, Rights, and Liberation (Excerpt)](./childrens-oppression-rights-liberation.md)
+- [**Samantha Godwin**: Children's Oppression, Rights, and Liberation](./childrens-oppression-rights-liberation.md) (Excerpt)
 - [**Kathleen Nicole O'Neal**: Parenting Is a Conflict of Interest](./parenting-conflict-of-interest.md)
 - [**Cevin Soling**: Cheating Is a Moral Imperative](./cheating-moral-imperative.md)
-- [**Damien Sojoyner**: Undoing the School-to-Prison Pipeline (Excerpt)](./undoing-school-to-prison-pipeline.md)
+- [**Damien Sojoyner**: Undoing the School-to-Prison Pipeline](./undoing-school-to-prison-pipeline.md) (Excerpt)
 - [**Marc Silverstein**: Anarchism and Youth Liberation](./anarchism-youth-liberation.md)

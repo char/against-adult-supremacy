@@ -1,6 +1,7 @@
 ---
 title: Children's Oppression, Rights, and Liberation (Excerpt)
 authors: ["Samantha Goldwin"]
+tags: ["excerpt"]
 ---
 
 # Children's Oppression, Rights, and Liberation
